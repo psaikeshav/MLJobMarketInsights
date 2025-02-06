@@ -4,9 +4,9 @@ This project aimed at analyzing and providing insights into the job market using
 
 ## Repository Structure
 
-- **notebooks/**: Contains Jupyter Notebooks with the data analysis and visualization code.
-- **data/**: Directory for storing datasets used in the analysis.
-- **scripts/**: Python scripts for data preprocessing, model training, and evaluation.
+- **notebooks/** : Contains Jupyter Notebooks with the data analysis and visualization code.
+- **data/** : Directory for storing datasets used in the analysis.
+- **scripts/** : Python scripts for data preprocessing, model training, and evaluation.
 
 ## Requirements
 
