@@ -29,6 +29,7 @@ This project aimed at analyzing and providing insights into the job market using
     pip install -r requirements.txt
     ```
 
+
 ## Usage
 
 1. Launch Jupyter Notebook:
